@@ -16,7 +16,7 @@ oracion no valida , en caso contrario debera mostrar que la oracion es valida
 ## Videos de integrantes 
 
 [video pedro]()
-[video nicolas](aca link de video nuestro dentro de los parentesis)
+[video nicolas](https://drive.google.com/file/d/1e1gSGjAIGwMcyXJVZy1lnSqcqs4OjHLW/view?usp=share_linkhttps://drive.google.com/file/d/1e1gSGjAIGwMcyXJVZy1lnSqcqs4OjHLW/view?usp=share_link)
 
 ---
 ## Grámatica
